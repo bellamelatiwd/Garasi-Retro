@@ -1,5 +1,6 @@
 # Garasi Retro
 
+🔗 **Live:** https://garasi-retro.vercel.app/
 Landing page untuk bisnis restorasi & sparepart mobil klasik JDM dan pasar Indonesia. Dibangun sebagai project portfolio untuk menunjukkan kemampuan Front-End development dengan Next.js dan React.
 
 > Project ini merupakan konsep desain — nama bisnis, unit mobil, dan kontak yang ditampilkan adalah contoh/fiktif.
@@ -83,11 +84,6 @@ npm run start
 - Tambah form kontak yang beneran mengirim data (mis. lewat API route atau layanan seperti Formspree)
 - Tambah animasi transisi saat filter galeri berubah
 
-# Garasi Retro
-
-🔗 **Live:** https://garasi-retro.vercel.app/
-
-Landing page untuk bisnis restorasi & sparepart mobil klasik JDM dan pasar Indonesia.
 
 ## Lisensi
 
