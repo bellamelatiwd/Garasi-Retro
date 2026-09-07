@@ -83,6 +83,12 @@ npm run start
 - Tambah form kontak yang beneran mengirim data (mis. lewat API route atau layanan seperti Formspree)
 - Tambah animasi transisi saat filter galeri berubah
 
+# Garasi Retro
+
+🔗 **Live:** [garasi-retro-landing.vercel.app](https://garasi-retro-landing.vercel.app)
+
+Landing page untuk bisnis restorasi & sparepart mobil klasik JDM dan pasar Indonesia.
+
 ## Lisensi
 
 Project ini dibuat untuk keperluan portfolio pribadi.
