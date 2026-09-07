@@ -85,7 +85,7 @@ npm run start
 
 # Garasi Retro
 
-🔗 **Live:** [garasi-retro-landing.vercel.app](https://garasi-retro-landing.vercel.app)
+🔗 **Live:** https://garasi-retro.vercel.app/
 
 Landing page untuk bisnis restorasi & sparepart mobil klasik JDM dan pasar Indonesia.
 
